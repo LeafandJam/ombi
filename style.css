@@ -43,8 +43,8 @@ body {
   height: 15rem;
   background: linear-gradient(
     to right,
-    rgba(195, 233, 106, 0.75),
-    rgba(40, 136, 11, 0.75)
+    rgba(106, 197, 233, 0.253),
+    rgba(11, 76, 136, 0.308)
   );
   position: absolute;
   border-radius: 50%;
