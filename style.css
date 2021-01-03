@@ -43,8 +43,8 @@ body {
   height: 15rem;
   background: linear-gradient(
     to right,
-    rgba(106, 197, 233, 0.253),
-    rgba(11, 76, 136, 0.308)
+    rgba(233, 193, 106, 0.253),
+    rgba(136, 67, 11, 0.308)
   );
   position: absolute;
   border-radius: 50%;
@@ -88,7 +88,7 @@ button.active {
 .purchase button {
   width: 100%;
   padding: 1rem 0rem;
-  background: #2da6ec;
+  background: #eca92d;
   border: none;
   color: white;
   cursor: pointer;
